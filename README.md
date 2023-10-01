@@ -1,2 +1,2 @@
 # JS-learning
-A code Repo for Javascript Series
+A Code Repo for Javascript Series
